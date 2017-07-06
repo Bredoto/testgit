@@ -142,6 +142,7 @@ plot(xc2,yc2,'b.')
 
 
 % add some minor changing
+% add minot update with more perfect code
 
 
 
