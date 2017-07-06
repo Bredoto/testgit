@@ -144,6 +144,10 @@ plot(xc2,yc2,'b.')
 % add some minor changing
 % add minot update with more perfect code
 
+clc,close all,clear all
+disp('new features')
+
+
 
 
 
