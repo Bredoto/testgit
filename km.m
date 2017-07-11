@@ -1,5 +1,6 @@
 clc,close all,clear all
 % add features fargo
+% add fargo2 branch
 % Number of clusters this is given information
 Ncl = 2; 
 
