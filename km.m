@@ -1,5 +1,5 @@
 clc,close all,clear all
-
+% add features fargo
 % Number of clusters this is given information
 Ncl = 2; 
 
